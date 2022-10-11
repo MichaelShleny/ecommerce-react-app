@@ -316,7 +316,7 @@ HIGHLIGHTS
 #highlights:after {
   transform: translateY(100%) rotate(180deg);
   bottom: 1px;
-}
+}/**/
 
 .highlight__wrapper {
   display: flex;
